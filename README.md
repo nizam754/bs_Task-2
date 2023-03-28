@@ -132,6 +132,9 @@ For example, for 3 worker nodes, you need to have,
 ```shell
 NUM_WORKER_NODES=3
 ```
+## For Node 3 
+
+![node3!](images/node3.jpg)
 ## master.sh, node.sh and common.sh Scripts
 
 The three shell scripts get called as provisioners during the Vagrant run to configure the cluster.
